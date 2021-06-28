@@ -1,5 +1,5 @@
 ### Oi Pessoal 👋
-<p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas :computer: :books:</p><br>
+<p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas :computer: :books:</p>
 <p>Se quiser entrar contato comigo, fique à vontade: :relaxed:</p>
 <ul>
   <li><a href="https://www.linkedin.com/in/bruno-borelli/">Linkedin</a></li>
