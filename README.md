@@ -1,4 +1,10 @@
-### Hi there 👋
+### Oi Pessoal 👋
+<p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas :computer: :books:</p><br>
+<p>Se quiser entrar contato comigo, fique à vontade: :relaxed:</p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/bruno-borelli/">Linkedin</a></li>
+  <li><a href="https://github.com/BrunoBorelliPro">GitHub</a></li>
+</ul>
 
 <!--
 **BrunoBorelliPro/BrunoBorelliPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
