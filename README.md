@@ -1,22 +1,13 @@
-### Oi Pessoal 👋
-<p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas :computer: :books:</p>
-<p>Se quiser entrar contato comigo, fique à vontade: :relaxed:</p>
-<ul>
-  <li><a href="https://www.linkedin.com/in/bruno-borelli/">Linkedin</a></li>
-  <li><a href="https://github.com/BrunoBorelliPro">GitHub</a></li>
-</ul>
+# Olá Pessoal 👋
 
-<!--
-**BrunoBorelliPro/BrunoBorelliPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:books: Meu nome é **Bruno Borelli** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.
 
-Here are some ideas to get you started:
+:nerd_face: Estou buscando uma oportunidade como **Desenvolvedor Jr**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Se quiser entrar contato comigo, fique à vontade: :relaxed:
+
+[LinkedIn](https://www.linkedin.com/in/bruno-borelli/)
+[GitHub](https://github.com/BrunoBorelliPro)
+
+![BrunoBorelliPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBorelliPro&show_icons=true&theme=radical)
+
