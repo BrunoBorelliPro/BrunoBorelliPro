@@ -10,5 +10,5 @@
 
 [GitHub](https://github.com/BrunoBorelliPro)
 
-![BrunoBorelliPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBorelliPro&show_icons=true&theme=radical)
+![BrunoBorelliPro's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=BrunoBorelliPro&show_icons=true&theme=radical)
 
